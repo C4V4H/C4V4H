@@ -18,7 +18,7 @@ I love exploring new technologies and contributing to projects that help the tec
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/eliorodr2104/RISC-V-Emulator)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftui-%23373737.svg?style=for-the-badge&logo=swift&logoColor=white)
-[![Manim](https://img.shields.io/badge/manim-%2337B7E6.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/C4V4H/manim-projects)
+[![Manim](https://img.shields.io/badge/manim-%2337B7E6.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/C4V4H/ManimAnimations)
 
 ### Wanna Learn  
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
